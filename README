@@ -1,0 +1,3 @@
+This program takes points in vector space as input (space separated). See sample in file.txt
+The training set is represened as a k-d tree. 
+The k Nearest Neighbors for a user-specified point/test sample are obtained using traversal of k-d tree. 
